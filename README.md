@@ -18,7 +18,7 @@
 📝📝 I am currently a final year student pursuing a B.Tech in the field of Computer Science and Engineering from Banasthali Vidyapith. I'm a tech enthusiast with a great interest in Blockchain Technology, App and Web Development and a little bit in Artificial Intelligence. I'm well versed with Data Structures and Algorithms in C++. 
 I would not say that I am perfect in everything but what makes me different from the usual crowd is my hunger and cravings for learning something new and applying it practically also thus "Stay hungry Stay foolish" is my mantra to the success I am aiming!!
 
-<p align="left"> <a href="https://liknedin.com/tanmaya-arora" target="blank"><img src="https://img.shields.io/linkedin/follow/tanmaya-arora?logo=linkedin&style=for-the-badge" alt="tanmaya-arora" /></a> </p>
+<p align="left"> <a href="https://twitter.com/TanmayaArora99" target="blank"><img src="https://img.shields.io/twitter/follow/TanmayaArora99?logo=twitter&style=for-the-badge" alt="TanmayaArora99" /></a> </p>
 
 - 🔭 I’m currently working on ####Hyperledger Fabric 
 - 🌱 I’m currently exploring ####Blockchain Technology 

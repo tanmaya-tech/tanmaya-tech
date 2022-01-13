@@ -1,4 +1,4 @@
-## Hey there 👋, I am Tanmaya Arora!
+# Hey there 👋, I am Tanmaya Arora!
 
 ### CS Undergrad || Coder || Developer || Designer || Technocrat
 -------------------------------------------------------------------

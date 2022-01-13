@@ -1,6 +1,7 @@
 ## Hey there 👋, I am Tanmaya Arora!
-----------------------------------------------------------
+
 ### CS Undergrad || Coder || Developer || Designer || Technocrat
+-------------------------------------------------------------------
 
 <!--
 **tanmaya-tech/tanmaya-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

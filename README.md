@@ -20,8 +20,6 @@ I would not say that I am perfect in everything but what makes me different from
 
 <p align="left"> <a href="https://twitter.com/TanmayaArora20" target="blank"><img src="https://img.shields.io/twitter/follow/TanmayaArora20?logo=twitter&style=for-the-badge" alt="TanmayaArora20" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/bhav09/bhav09/raw/master/gif">
-
 
 - 🔭 I’m currently working on - **Hyperledger Fabric** 
 
@@ -41,5 +39,5 @@ I would not say that I am perfect in everything but what makes me different from
 
 ---
 
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original-wordmark.svg" alt="html" width="40" height="40"/>
 

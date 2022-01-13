@@ -14,7 +14,6 @@
 <a href="https://leetcode.com/tanmaya1999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanmaya1999" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/btbtc18241tanmaya/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="btbtc18241tanmaya" height="30" width="40" /></a>
 </p>
-<a href="https://www.interviewbit.com/profile/tanmaya-arora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/interviewbit.svg" alt="tanmaya-arora" height="30" width="40" /></a>
 
 📝📝 I am currently a final year student pursuing a B.Tech in the field of Computer Science and Engineering from Banasthali Vidyapith. I'm a tech enthusiast with a great interest in Blockchain Technology, App and Web Development and a little bit in Artificial Intelligence. I'm well versed with Data Structures and Algorithms in C++. 
 I would not say that I am perfect in everything but what makes me different from the usual crowd is my hunger and cravings for learning something new and applying it practically also thus "Stay hungry Stay foolish" is my mantra to the success I am aiming!!

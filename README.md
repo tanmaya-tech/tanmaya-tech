@@ -20,6 +20,7 @@ I would not say that I am perfect in everything but what makes me different from
 
 <p align="left"> <a href="https://twitter.com/TanmayaArora20" target="blank"><img src="https://img.shields.io/twitter/follow/TanmayaArora20?logo=twitter&style=for-the-badge" alt="TanmayaArora20" /></a> </p>
 
+<!-- <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"> -->
 
 - 🔭 I’m currently working on - **Hyperledger Fabric** 
 

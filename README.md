@@ -20,6 +20,9 @@ I would not say that I am perfect in everything but what makes me different from
 
 <p align="left"> <a href="https://twitter.com/TanmayaArora20" target="blank"><img src="https://img.shields.io/twitter/follow/TanmayaArora20?logo=twitter&style=for-the-badge" alt="TanmayaArora20" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://github.com/bhav09/bhav09/raw/master/gif">
+
+
 - 🔭 I’m currently working on - **Hyperledger Fabric** 
 
 - 🌱 I’m currently exploring **Blockchain Technology** 
@@ -35,6 +38,8 @@ I would not say that I am perfect in everything but what makes me different from
 - ⚡ Fun fact: **Chocolates>>>>>**
 
 <h3 align="left">Languages and Tools:</h3>
+
 ---
+
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 

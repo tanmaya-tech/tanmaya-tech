@@ -1,5 +1,5 @@
 <h1 align="left">Hey there 👋, I am Tanmaya Arora!</h1>
-<h3 align="left">CS Undergrad || Technocrat Enthusiast || Coder || Developer || Designer</h3>
+<h3 align="left">CS Undergrad || Technocrat Enthusiast || Coder || Developer || Learner || Designer</h3>
 
 ---
 

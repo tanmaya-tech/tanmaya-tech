@@ -11,13 +11,13 @@ I would not say that I am perfect in everything but what makes me different from
 
 <!-- <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"> -->
 
-- 🔭 I’m currently working on - **Hyperledger Fabric** 
+- 🔭 I’m currently working as a - **Technical Analyst** 
 
-- 🌱 I’m currently exploring **Blockchain Technology** 
+- 🌱 I’m currently exploring **Blockchain Technology, Dev ops and Product Management**
 
-- 👯 I’m looking to collaborate on **projects based on Web Development**
+- 👯 I’m looking to collaborate on **Projects based on Dev Ops**
 
-- 💬 Ask me about **Python, Java, Web Development, Blockchain**
+- 💬 Ask me about **Python, Java, Web Development, Blockchain, Dev Ops, Change Management**
 
 - 📫 How to reach me: tanmayaarora99@gmail.com
 
